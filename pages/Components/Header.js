@@ -3,7 +3,7 @@ import Styles from '../../styles/Home.module.css'
 const Header = () => {
     return (
         <div className={Styles.header}>
-            <h1 >GradationAPP</h1>
+            <h1 >Gradation</h1>
 
         </div>
     )
